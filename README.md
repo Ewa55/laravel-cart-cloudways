@@ -3,7 +3,7 @@
 
 ## About My project
 
-I created this project with Udemy. I have been learning programming for a long time, because it is my passion.
+I created this project using a Udemy course. I have been learning programming for a long time, because it is my passion.
 The design was based on Laravel.
 
 
